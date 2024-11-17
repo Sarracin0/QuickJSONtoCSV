@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Charlie",
+        "age": 35,
+        "address": {
+            "street": "789 Main St",
+            "city": "Chicago"
+        },
+        "skills": ["Python", "Data Science"]
+    },
+    {
+        "name": "Diana",
+        "age": 28,
+        "address": {
+            "street": "123 Side St",
+            "city": "Boston"
+        },
+        "skills": ["JavaScript", "React"]
+    }
+]
